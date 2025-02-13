@@ -3,6 +3,8 @@
 ## Project1: Arithmetic Logic Unit
 Specification:
 
+![My animated logo](./Project1/p1.png)
+![My animated logo](./Project1/p2.png)
 
 
 ## Project2:  Simple RISC-V CPU
