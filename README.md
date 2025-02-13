@@ -5,6 +5,8 @@ Specification:
 
 ![My animated logo](./Project1/p1.png)
 ![My animated logo](./Project1/p2.png)
+![My animated logo](./Project1/p3.png)
+![My animated logo](./Project1/p4.png)
 
 
 ## Project2:  Simple RISC-V CPU
