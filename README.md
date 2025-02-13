@@ -5,15 +5,15 @@ Specification:
 
 
 
-## Project2:
+## Project2:  Simple RISC-V CPU
 Specification:
 
-## Project3:
+## Project3: Simple Convolution and Image Processing Engine
 Specification:
 
-## Project4:
+## Project4: IoT Data Filtering
 Specification:
 
-## Project5:
+## Project5: APR
 Specification:
 
